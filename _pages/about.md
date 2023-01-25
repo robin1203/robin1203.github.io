@@ -5,7 +5,7 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is YoonBin Choi. I am a marketing data analyst, working CJ CGV in Korea. Currently this blog is under construction!
+Hi, my name is YoonBin Choi. I am a marketing data analyst, working CJ CGV in Korea. Currently this blog is under construction! #
 
 ***
 
