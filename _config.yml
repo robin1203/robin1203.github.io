@@ -1,4 +1,4 @@
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/robin1203" # the subpath of your site, e.g. /blog
 url: "https://robin1203.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
